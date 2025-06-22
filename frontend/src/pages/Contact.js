@@ -4,7 +4,7 @@ import { FaWhatsapp, FaPhone, FaEnvelope } from 'react-icons/fa';
 const Contact = () => {
   const phoneNumber = '6290210010';
   const email = 'sales@sports2020.co.in';
-  const locationUrl = 'https://www.google.com/maps/place/Invida+Solutions/@22.4916369,88.3825519,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02711553cd7063:0x7037429c50ee8311!8m2!3d22.4916369!4d88.3825519!16s%2Fg%2F1tgr_bt6?entry=ttu';
+  //const locationUrl = 'https://www.google.com/maps/place/Invida+Solutions/@22.4916369,88.3825519,17z/data=!3m1!4b1!4m6!3m5!1s0x3a02711553cd7063:0x7037429c50ee8311!8m2!3d22.4916369!4d88.3825519!16s%2Fg%2F1tgr_bt6?entry=ttu';
 
   return (
     <Container className="my-4">

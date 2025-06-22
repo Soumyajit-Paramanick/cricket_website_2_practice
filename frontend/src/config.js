@@ -1,4 +1,4 @@
-const BASE_URL = "hcricketwebsite2practice-production.up.railway.app";
+const BASE_URL = "https://cricketwebsite2practice-production.up.railway.app";
 
 const API = {
   PRODUCTS: `${BASE_URL}/api/products/`,

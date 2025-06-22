@@ -93,7 +93,13 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # CORS setup
 CORS_ALLOWED_ORIGINS = [
+    "https://cricketwebsite2practice-production.up.railway.app",
     "http://localhost:3000",  # Local React
+]
+
+# Allow Railway domain for CSRF and CORS
+CSRF_TRUSTED_ORIGINS = [
+    "https://cricketwebsite2practice-production.up.railway.app",
 ]
 
 
